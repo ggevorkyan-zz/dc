@@ -1,0 +1,13 @@
+# ignore all dotfiles except gitignore
+.*
+
+# except .gitignore
+!.gitignore
+
+# ignore target folder
+/target
+
+# ignore *.iml
+*.iml
+
+
