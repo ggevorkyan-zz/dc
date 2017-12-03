@@ -1,3 +1,3 @@
 # DC
-mvn install
-mvn spring-boot:run
+## mvn install
+## mvn spring-boot:run
